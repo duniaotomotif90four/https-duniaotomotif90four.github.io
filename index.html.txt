@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DUNIA OTOMOTIF</title>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Rubik', sans-serif;
+      margin: 0;
+      background: #f4f7fc;
+      color: #222;
+    }
+    header {
+      background: #005baa;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 2rem auto;
+      padding: 1rem;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      color: #005baa;
+    }
+    ul {
+      padding-left: 1.5rem;
+    }
+    .contact {
+      background: #eaf1fb;
+      padding: 1rem;
+      border-left: 5px solid #005baa;
+    }
+    footer {
+      background: #005baa;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+    .social-icons a {
+      margin: 0 10px;
+      color: #005baa;
+      text-decoration: none;
+      font-size: 1.5rem;
+    }
+    .btn {
+      background: #005baa;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      text-decoration: none;
+      border-radius: 5px;
+      display: inline-block;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>DUNIA OTOMOTIF</h1>
+    <p>JL Maulana Hasanudin, Kampung Cempak RT 06 RW 01, Desa Cilangkap, Kec. Karang Anyar, Kab. Lebak</p>
+  </header>
+
+  <div class="container">
+    <div class="section">
+      <h2>Layanan Bengkel</h2>
+      <ul>
+        <li>Tune Up</li>
+        <li>Ganti Oli</li>
+        <li>Nitrogen</li>
+        <li>Spooring & Balancing</li>
+        <li>Kalibrasi Injeksi</li>
+        <li>Revisi Transmisi</li>
+        <li>Overhaul</li>
+        <li>Kelistrikan</li>
+        <li>Kaki-kaki</li>
+        <li>Diagnostik Scanner</li>
+      </ul>
+    </div>
+
+    <div class="section contact">
+      <h2>Kontak & Jam Operasional</h2>
+      <p><strong>No HP:</strong> <a href="https://wa.me/628983631131">0898-3631-131</a></p>
+      <p><strong>Jam Buka:</strong> 08:00 - 17:00 (Setiap Hari)</p>
+      <p><a class="btn" href="https://goo.gl/maps/ZmNfFdZy8vC2">Lihat di Google Maps</a></p>
+    </div>
+
+    <div class="section">
+      <h2>Ikuti Kami di Media Sosial</h2>
+      <p class="social-icons">
+        <a href="https://tiktok.com/@duniaotomotif90four">TikTok</a> |
+        <a href="https://instagram.com/duniaotomotif90four">Instagram</a> |
+        <a href="https://facebook.com/duniaotomotif90four">Facebook</a>
+      </p>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 DUNIA OTOMOTIF. All rights reserved.
+  </footer>
+</body>
+</html>
+
